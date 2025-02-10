@@ -4,6 +4,9 @@
  */
 
 var mySqrt = function(x) {
-   return Math.floor(Math.sqrt(x))
+    var result=Math.sqrt(x)
+    
+
+    return Math.floor(result)
 };
 
