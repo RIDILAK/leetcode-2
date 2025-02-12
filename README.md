@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RIDILAK/leetcode-2/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/RIDILAK/leetcode-2/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
