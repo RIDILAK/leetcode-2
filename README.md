@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RIDILAK/leetcode-2/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/RIDILAK/leetcode-2/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/RIDILAK/leetcode-2/tree/master/0136-single-number) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RIDILAK/leetcode-2/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/RIDILAK/leetcode-2/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RIDILAK/leetcode-2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RIDILAK/leetcode-2/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/RIDILAK/leetcode-2/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
