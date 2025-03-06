@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RIDILAK/leetcode-2/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RIDILAK/leetcode-2/tree/master/0069-sqrtx) |
 | [2383-add-two-integers](https://github.com/RIDILAK/leetcode-2/tree/master/2383-add-two-integers) |
+| [2649-count-total-number-of-colored-cells](https://github.com/RIDILAK/leetcode-2/tree/master/2649-count-total-number-of-colored-cells) |
 ## String
 |  |
 | ------- |
