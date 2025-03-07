@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/RIDILAK/leetcode-2/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/RIDILAK/leetcode-2/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RIDILAK/leetcode-2/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/RIDILAK/leetcode-2/tree/master/0231-power-of-two) |
 | [2383-add-two-integers](https://github.com/RIDILAK/leetcode-2/tree/master/2383-add-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RIDILAK/leetcode-2/tree/master/2649-count-total-number-of-colored-cells) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RIDILAK/leetcode-2/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/RIDILAK/leetcode-2/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RIDILAK/leetcode-2/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/RIDILAK/leetcode-2/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
