@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RIDILAK/leetcode-2/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/RIDILAK/leetcode-2/tree/master/0136-single-number) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RIDILAK/leetcode-2/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/RIDILAK/leetcode-2/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RIDILAK/leetcode-2/tree/master/0001-two-sum) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/RIDILAK/leetcode-2/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/RIDILAK/leetcode-2/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RIDILAK/leetcode-2/tree/master/0231-power-of-two) |
+## Counting
+|  |
+| ------- |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/RIDILAK/leetcode-2/tree/master/2421-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
