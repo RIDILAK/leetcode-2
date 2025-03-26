@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/RIDILAK/leetcode-2/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/RIDILAK/leetcode-2/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RIDILAK/leetcode-2/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/RIDILAK/leetcode-2/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/RIDILAK/leetcode-2/tree/master/0231-power-of-two) |
 | [2383-add-two-integers](https://github.com/RIDILAK/leetcode-2/tree/master/2383-add-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RIDILAK/leetcode-2/tree/master/2649-count-total-number-of-colored-cells) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/RIDILAK/leetcode-2/tree/master/0190-reverse-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RIDILAK/leetcode-2/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RIDILAK/leetcode-2/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
