@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RIDILAK/leetcode-2/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/RIDILAK/leetcode-2/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/RIDILAK/leetcode-2/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/RIDILAK/leetcode-2/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RIDILAK/leetcode-2/tree/master/0069-sqrtx) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/RIDILAK/leetcode-2/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDILAK/leetcode-2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/RIDILAK/leetcode-2/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/RIDILAK/leetcode-2/tree/master/0058-length-of-last-word) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RIDILAK/leetcode-2/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/RIDILAK/leetcode-2/tree/master/0012-integer-to-roman) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/RIDILAK/leetcode-2/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Recursion
 |  |
